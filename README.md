@@ -1,5 +1,10 @@
 # MOOCs
 
+## Computer Science
+### Courses
+- CS50
+- Berkeley CS61A
+- CMU csapp
 
 ## Robotic
 
