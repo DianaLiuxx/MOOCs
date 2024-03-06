@@ -1,4 +1,4 @@
-# MOOCs
+# Online resources
 
 ## Computer Science
 ### Courses
@@ -10,6 +10,7 @@
 
 ### Courses
 1. [Bayesian Algorithms for Self-Driving Cars]
+2. https://www.ipb.uni-bonn.de/teaching/index.html
 
 ### Books
 1. Probabilistic Robotics
@@ -23,3 +24,4 @@
 4. [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 5. [Robot Localization IV: The Particle Filter](https://www.sabinasz.net/robot-localization-particle-filter/)
 6. [MONTE CARLO SIMULATIONS](https://marblescience.com/blog/monte-carlo-simulations)
+7. [Particle Filter : A hero in the world of Non-Linearity and Non-Gaussian](https://towardsdatascience.com/particle-filter-a-hero-in-the-world-of-non-linearity-and-non-gaussian-6d8947f4a3dc)
