@@ -8,6 +8,9 @@
 
 ## Robotic
 
+1. [The Duckietown platform](https://duckietown.com/)
+
+
 ### Courses
 1. [Bayesian Algorithms for Self-Driving Cars]
 2. https://www.ipb.uni-bonn.de/teaching/index.html
