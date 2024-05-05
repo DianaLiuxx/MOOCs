@@ -19,6 +19,7 @@
 1. Probabilistic Robotics
 2. [Planning Algorithms](https://lavalle.pl/planning/)
 3. [KALMAN FILTER FROM THE GROUND UP](https://www.kalmanfilter.net/default.aspx)
+4. [Handbook of Robotics](http://handbookofrobotics.org/)
 
 ### Blogs
 1. [Robot Localization I: Recursive Bayesian Estimation](https://www.sabinasz.net/robot-localization-recursive-bayesian-estimation/)
