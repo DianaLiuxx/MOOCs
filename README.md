@@ -9,7 +9,15 @@
 ## Robotic
 
 1. [The Duckietown platform](https://duckietown.com/)
+2. https://groups.google.com/g/ai-robotics
 
+
+### Cognitive Robotics
+1. [Cognitive Robotics Resources](http://www.vernon.eu/wiki/Cognitive_Robotics_Resources)
+2. https://www.youtube.com/@merscognitiverobotics8618
+3. [Cognitive Robotics](https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/pages/instructor-insights/)
+4. Model-based Embedded and Robotic Systems group at MIT
+   
 
 ### Courses
 1. [Bayesian Algorithms for Self-Driving Cars]
