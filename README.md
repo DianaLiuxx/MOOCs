@@ -5,6 +5,9 @@
 - CS50
 - Berkeley CS61A
 - CMU csapp
+- [Graph Neural Networks (ESE 5140)](https://gnn.seas.upenn.edu/lectures/)
+
+
 
 ## Robotic
 
